@@ -8,17 +8,17 @@ This project analyzes a dataset of 3,900+ customer shopping transactions to unco
 ---
 
 📂 ** Dataset**
-- Total Records: 3,900
-- Total Columns: 18
-- Missing Values: 37 in Review Rating
-- Data Includes: Customer demographics, purchase details, shopping behavior, ratings, discounts, subscriptions, and shipping information.
+Total Records: 3,900
+Total Columns: 18
+Missing Values: 37 in Review Rating
+Data Includes: Customer demographics, purchase details, shopping behavior, ratings, discounts, subscriptions, and shipping information.
 
 ---
 🛠️ **Tools & Technologies**
-- Python(Pandas) – Data Cleaning, EDA & Feature Engineering
-- Jupyter Notebook - Interactive Data Analysis Environment
-- PostgreSQL – SQL Analysis & Business Queries
-- Power BI – Interactive Dashboard & Visualization
+ Python(Pandas) – Data Cleaning, EDA & Feature Engineering
+Jupyter Notebook - Interactive Data Analysis Environment
+PostgreSQL – SQL Analysis & Business Queries
+Power BI – Interactive Dashboard & Visualization
   
 ---
 📁 **Project Structure**
