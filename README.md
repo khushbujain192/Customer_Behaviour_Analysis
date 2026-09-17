@@ -7,7 +7,7 @@ This project analyzes a dataset of 3,900+ customer shopping transactions to unco
 
 ---
 
-📂 ** Dataset**
+📂 **Dataset**
 Total Records: 3,900
 Total Columns: 18
 Missing Values: 37 in Review Rating
@@ -16,19 +16,18 @@ Data Includes: Customer demographics, purchase details, shopping behavior, ratin
 ---
 🛠️ **Tools & Technologies**
  Python(Pandas) – Data Cleaning, EDA & Feature Engineering
-Jupyter Notebook - Interactive Data Analysis Environment
-PostgreSQL – SQL Analysis & Business Queries
-Power BI – Interactive Dashboard & Visualization
+ Jupyter Notebook - Interactive Data Analysis Environment
+ PostgreSQL – SQL Analysis & Business Queries
+ Power BI – Interactive Dashboard & Visualization
   
 ---
 📁 **Project Structure**
-Customer Trends Data Analysis/
-│
-├── customer_shopping_behavior.csv          # Raw dataset
-├── Customer_Shopping_Behaviour_Analysis.ipynb  # Python analysis notebook
-├── Customer_Shopping_Behavior.sql          # SQL queries for business insights
-├── Customer_Behavior_Dashboard.pbix        # Power BI dashboard file
-└── README.md                               # Project documentation
+Customer Behaviour Data Analysis
+ customer_shopping_behavior.csv          # Raw dataset
+ Customer_Shopping_Behaviour_Analysis.ipynb  # Python analysis notebook
+ Customer_Shopping_Behavior.sql          # SQL queries for business insights
+ Customer_Behavior_Dashboard.pbix        # Power BI dashboard file
+ README.md                               # Project documentation
 
 ---
 🔍 **Analysis Workflow** 
